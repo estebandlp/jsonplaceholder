@@ -5,9 +5,12 @@
     { "id": 3, "title": "Post 3" }
   ],
   "avatars": [
-    { "template_id": 1, "name": "Avatar 1" },
-    { "template_id": 2, "name": "Avatar 2" },
-    { "template_id": 3, "name": "Avatar 3" }
+    { "id":1, "url": "some.amazing.url", "name": "Avatar 1" },
+    { "id":2, "url": "some.amazing.url", "name": "Avatar 2" },
+    { "id":3, "url": "some.amazing.url", "name": "Avatar 3" },
+    { "id":4, "url": "some.amazing.url", "name": "Avatar 4" },
+    { "id":5, "url": "some.amazing.url", "name": "Avatar 5" },
+    { "id":6, "url": "some.amazing.url", "name": "Avatar 6" }
   ],
   "frames": [
     { "template_id": 1, "name": "Frame 1" },
