@@ -1,27 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "avatars": [
-    { "id":1, "url": "some.amazing.url", "name": "Avatar 1" },
-    { "id":2, "url": "some.amazing.url", "name": "Avatar 2" },
-    { "id":3, "url": "some.amazing.url", "name": "Avatar 3" },
-    { "id":4, "url": "some.amazing.url", "name": "Avatar 4" },
-    { "id":5, "url": "some.amazing.url", "name": "Avatar 5" },
-    { "id":6, "url": "some.amazing.url", "name": "Avatar 6" }
+    { "id":1, "url": "some.amazing1.url", "name": "Avatar 1" },
+    { "id":2, "url": "some.amazing2.url", "name": "Avatar 2" },
+    { "id":3, "url": "some.amazing3.url", "name": "Avatar 3" },
+    { "id":4, "url": "some.amazing4.url", "name": "Avatar 4" },
+    { "id":5, "url": "some.amazing5.url", "name": "Avatar 5" },
+    { "id":6, "url": "some.amazing6.url", "name": "Avatar 6" }
   ],
   "frames": [
-    { "template_id": 1, "name": "Frame 1" },
-    { "template_id": 2, "name": "Frame 2" },
-    { "template_id": 3, "name": "Frame 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id":1, "url": "some.amazing1.url", "name": "Frame 1" },
+    { "id":2, "url": "some.amazing2.url", "name": "Frame 2" },
+    { "id":3, "url": "some.amazing3.url", "name": "Frame 3" },
+    { "id":4, "url": "some.amazing4.url", "name": "Frame 4" },
+    { "id":5, "url": "some.amazing5.url", "name": "Frame 5" },
+    { "id":6, "url": "some.amazing6.url", "name": "Frame 6" },
+    { "id":7, "url": "some.amazing4.url", "name": "Frame 7" },
+    { "id":8, "url": "some.amazing5.url", "name": "Frame 8" },
+    { "id":9, "url": "some.amazing6.url", "name": "Frame 9" }
+  ]
 }
